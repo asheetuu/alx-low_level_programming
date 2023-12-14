@@ -1,10 +1,12 @@
 #include <stdio.h>
 /**
- * This program is going to display the text 
- * to the screen
- */
-int main()
+*main - Entry point
+*
+* Return: always zero success
+*/
+int main(void)
+{
 
 	puts("\"Programming is like building a multilingual puzzle\n");
-	return 0;
+	return (0);
 }
